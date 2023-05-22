@@ -14,5 +14,6 @@ Implementação dos principais métodos de classificação em Python, feitos dur
 ## Métodos 
 
 - Bubble Sort
+- Insertion Sort
 
 
