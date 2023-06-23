@@ -17,5 +17,6 @@ Implementação dos principais métodos de classificação em Python, feitos dur
 - Insertion Sort
 - Selection Sort
 - Merge Sort
+- Quick Sort
 
 
