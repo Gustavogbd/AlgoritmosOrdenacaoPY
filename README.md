@@ -1,5 +1,5 @@
 
-# Métodos de Classificação em Python
+# Algoritmos de Classificação em Python
 
 Implementação dos principais métodos de classificação em Python, feitos durante o curso de Análise e Desenvolvimento de Sistemas.
 
@@ -11,7 +11,7 @@ Implementação dos principais métodos de classificação em Python, feitos dur
 - [@gustavogbd](https://www.github.com/Gustavogbd)
 
 
-## Métodos 
+## Algoritmos
 
 - Bubble Sort
 - Insertion Sort
